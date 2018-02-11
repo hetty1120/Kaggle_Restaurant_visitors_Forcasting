@@ -2,7 +2,9 @@
 kaggle competition (Recruit Restaurant Visitor Forecasting)
 
 input data: reservation data, real visitors and holiday information
+
 model: gradient boosting regression 
+
 output data: forcast daily visitors number for more than 800 stores in about 40 days
 
 two .ipynb files:
